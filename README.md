@@ -1,1 +1,1 @@
-Pipieline CI / CD
+Pipeline CI / CD
